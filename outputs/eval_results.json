@@ -1,0 +1,48 @@
+{
+    "accuracy": 56.2,
+    "correct": 18,
+    "total": 32,
+    "by_type": {
+        "diagnosis": {
+            "correct": 1,
+            "total": 1
+        },
+        "medication": {
+            "correct": 1,
+            "total": 3
+        },
+        "allergy": {
+            "correct": 1,
+            "total": 2
+        },
+        "lab_value": {
+            "correct": 2,
+            "total": 8
+        },
+        "procedure": {
+            "correct": 1,
+            "total": 3
+        },
+        "history": {
+            "correct": 1,
+            "total": 1
+        },
+        "negation": {
+            "correct": 5,
+            "total": 6
+        },
+        "reasoning": {
+            "correct": 5,
+            "total": 6
+        },
+        "other": {
+            "correct": 0,
+            "total": 1
+        },
+        "instruction": {
+            "correct": 1,
+            "total": 1
+        }
+    },
+    "results": []
+}
